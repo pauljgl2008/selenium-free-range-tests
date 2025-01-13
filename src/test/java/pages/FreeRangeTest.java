@@ -20,7 +20,7 @@ public class FreeRangeTest {
 
     @Test
     public void navegamosAFreeRangeTesters() {
-        driver.get("https://www.freerange.com/");
+        driver.get("https://www.freerangetesters.com/");
     }
 
     @AfterEach
